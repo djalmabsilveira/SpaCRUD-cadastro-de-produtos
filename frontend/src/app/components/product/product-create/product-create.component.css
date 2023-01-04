@@ -1,0 +1,11 @@
+.padding {
+  padding: 1rem;
+}
+.form {
+  margin-top: 1rem;
+  display: flex;
+  flex-direction: column;
+}
+.cancelButton {
+  margin-top: 1rem;
+}
